@@ -164,7 +164,7 @@ You should now see all the buttons and the analog triggers working!
 
 # Credits
 Time to mention everybody who helped along the project!
-- The Xii-Boy Team (JamesPi, BryceShaw, and I)
+- The Xii-Boy Team (Xenii, James, and Bryce)
 - YveltalGriffin (Help about PCB Design)
 - Aurelio (RVLoader devloppement and software help) 
 - All the Beta Testers (Modding Marius, Supertazon, YveltalGriffin, Macho Nacho, JamesPi, JoshsJunk05) 👍
